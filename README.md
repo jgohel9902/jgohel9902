@@ -23,6 +23,27 @@ const skills = {
   version_control: ["Git", "GitHub"],
   tools: ["Visual Studio Code", "Power Query", "SQL Server Management Studio"],
 };
+```
 
-📈 GitHub Stats
+### 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jgohel9902&show_icons=true&theme=dark&count_private=true" alt="Jenil's GitHub stats" /> </div>
+
+### 🛠 Technologies and Tools
+```javascript
+const tools = {
+  languages: ["JavaScript", "Python", "SQL"],
+  frameworks: ["React", "Tailwind CSS", "Bootstrap"],
+  databases: ["MySQL", "PostgreSQL", "Firebase"],
+  analytics: ["Power BI", "Excel", "Plotly"],
+};
+```
+### 🚀 Let's Collaborate
+📧 Email: jgohel9902@gmail.com
+
+💼 LinkedIn: linkedin.com/in/jgohel9902
+
+🌐 GitHub: github.com/jgohel9902
+
+
+###🔥 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jgohel9902&theme=react-dark&hide_border=true" /> </div> ```
