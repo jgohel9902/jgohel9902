@@ -1,15 +1,15 @@
-<h1 align="center">Hey there! 👋 I'm Jenil Gohel</h1>
-
-### 👨‍💻 About Me
-
-Aspiring **Data Analyst** and **Frontend Developer** with a passion for turning data into impactful visualizations and creating intuitive web interfaces. Skilled in data analysis, data visualization, and frontend development with a strong foundation in **Python, Power BI, SQL, and React**.
+<h1 align="center">👋 Hi, I'm Jenil Gohel</h1>
 
 ---
 
-### 🌱 Currently Learning
+### 🛠 About Me
 
-- **Microsoft Power BI Certification**
-- **TypeScript**
+Aspiring **Data Analyst** and **Frontend Developer** with a focus on transforming data into impactful insights and creating user-friendly web interfaces. Skilled in data analysis, data visualization, and frontend development with a strong foundation in **Python, Power BI, SQL, and React**.
+
+- 🌱 **Learning:** Microsoft Power BI Certification, TypeScript  
+- 🤝 **Open to collaborate on:** Data-driven projects, Dashboard development, and React.js applications  
+- 🛠 **Skills:** Data Analysis, Data Visualization, Frontend Development, API Integration  
+- 📧 **Reach me at:** [jgohel9902@gmail.com](mailto:jgohel9902@gmail.com)
 
 ---
 
@@ -21,5 +21,8 @@ const skills = {
   data_analysis: ["Python", "Power BI", "Excel", "SQL"],
   libraries: ["Pandas", "NumPy", "Matplotlib", "Plotly"],
   version_control: ["Git", "GitHub"],
-  other_tools: ["Visual Studio Code", "Power Query", "SQL Server Management Studio"],
+  tools: ["Visual Studio Code", "Power Query", "SQL Server Management Studio"],
 };
+
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jgohel9902&show_icons=true&theme=dark&count_private=true" alt="Jenil's GitHub stats" /> </div>
