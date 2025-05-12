@@ -69,6 +69,7 @@ Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 - [![Google](https://img.shields.io/badge/Google-UX%20Design%20Certification-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/5OPPRWU4887J)  
 
 - [![IBM](https://img.shields.io/badge/IBM-Excel%20Data%20Analytics-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/E9ZWZU7P0PVT)  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E9ZWZU7P0PVT)
   
 - [![IBM](https://img.shields.io/badge/IBM-SQL%20with%20Python-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/DEF789)  
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/DEF789) 
@@ -83,4 +84,3 @@ Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgohel9902)
 
 </div>
-
