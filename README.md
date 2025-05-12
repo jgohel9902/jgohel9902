@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jenil Gohel</h1>
+<h1 align="center">👋 Hi, I'm Jenil</h1>
 
 ---
 
@@ -64,7 +64,7 @@ Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 
 ### 🏆 Certifications
 
-- <img src="https://tse3.mm.bing.net/th/id/OIP.8ffjsOcm1DUWzq41IjcvrwHaHa?rs=1&pid=ImgDetMain" width="30" height="30" /> **Google UX Design Professional Certificate** 
+- <img src="https://tse3.mm.bing.net/th/id/OIP.8ffjsOcm1DUWzq41IjcvrwHaHa?rs=1&pid=ImgDetMain" width="40" height="40" /> **Google UX Design Professional Certificate** 
   [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5OPPRWU4887J)  
 
 - ![IBM Logo](https://img.shields.io/badge/IBM-Certification-blue?logo=ibm&logoColor=white&style=for-the-badge)  
