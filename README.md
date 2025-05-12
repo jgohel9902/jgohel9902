@@ -14,7 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -37,10 +36,14 @@ Data Analyst & Frontend Developer with expertise in transforming data into impac
 
 ```javascript
 const skills = {
-  data_analysis: ["Power BI", "Excel", "SQL", "Python"],
+  data_analysis: ["Power BI", "Excel", "SQL", "Python", "Azure"],
   frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
   libraries: ["Pandas", "NumPy", "Plotly", "Chart.js"],
   tools: ["Git", "Firebase", "VS Code", "Postman", "Figma"],
   systems: ["System Development Life Cycle", "Agile", "Scrum", "SDLC"],
-  testing: ["Jest", "Mocha", "Chai", "Selenium"],
+  testing: ["Jira", "Mocha", "Chai", "Selenium"],
 };
+```
+
+### 📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jgohel9902&show_icons=true&theme=dark&count_private=true" alt="Jenil's GitHub Stats" /> </div>
