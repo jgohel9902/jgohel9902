@@ -62,6 +62,21 @@ const skills = {
 ### 🎓 Education
 Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 
+### 🏆 Certifications
+
+- ![Google Logo](https://img.shields.io/badge/Google-Certification-blue?logo=google&logoColor=white&style=for-the-badge)  
+  **Google UX Design Professional Certificate**  
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5OPPRWU4887J)  
+
+- ![IBM Logo](https://img.shields.io/badge/IBM-Certification-blue?logo=ibm&logoColor=white&style=for-the-badge)  
+  **Excel Basics for Data Analytics**  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E9ZWZU7P0PVT)  
+
+- ![IBM Logo](https://img.shields.io/badge/IBM-Certification-blue?logo=ibm&logoColor=white&style=for-the-badge)  
+  **Databases and SQL for Data Science with Python**  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/2WWWNNDZF4QK)  
+
+
 ### 📫 Connect with Me
 
 <div align="center">
