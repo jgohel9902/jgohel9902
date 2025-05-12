@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Jenil Gohel</h1>
 
-<!--
-**jgohel9902/jgohel9902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Aspiring **Data Analyst** and **Frontend Developer** with a passion for turning data into impactful visualizations and creating intuitive web interfaces. Skilled in data analysis, data visualization, and frontend development with a strong foundation in **Python, Power BI, SQL, and React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+
+- **Microsoft Power BI Certification**
+- **TypeScript**
+
+---
+
+### 💻 Technical Skills
+
+```javascript
+const skills = {
+  frontend: ["React", "JavaScript", "HTML", "CSS"],
+  data_analysis: ["Python", "Power BI", "Excel", "SQL"],
+  libraries: ["Pandas", "NumPy", "Matplotlib", "Plotly"],
+  version_control: ["Git", "GitHub"],
+  other_tools: ["Visual Studio Code", "Power Query", "SQL Server Management Studio"],
+};
