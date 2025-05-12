@@ -50,21 +50,6 @@ const skills = {
   <img src="https://github-readme-stats-seven-swart-63.vercel.app/api?username=jgohel9902&show_icons=true&theme=radical&count_private=true" alt="Jenil Gohel's GitHub Stats" />
 </div>
 
-### 🎯 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgohel9902&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-### 🌟 Popular Repositories
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats-seven-swart-63.vercel.app/api/pin/?username=jgohel9902&repo=repo1&theme=radical)](https://github.com/jgohel9902/repo1)
-[![Repo 2](https://github-readme-stats-seven-swart-63.vercel.app/api/pin/?username=jgohel9902&repo=repo2&theme=radical)](https://github.com/jgohel9902/repo2)
-[![Repo 3](https://github-readme-stats-seven-swart-63.vercel.app/api/pin/?username=jgohel9902&repo=repo3&theme=radical)](https://github.com/jgohel9902/repo3)
-
-</div>
-
 
 ### 👁️ Profile Views
 
