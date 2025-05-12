@@ -64,7 +64,7 @@ Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 
 ### 🏆 Certifications
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png" width="30" height="30" style="vertical-align: middle;"/> **Google UX Design Professional Certificate** 
+- ![Google](https://img.shields.io/badge/Google-UX%20Design%20Certification-4285F4?style=for-the-badge&logo=google&logoColor=white) **Google UX Design Professional Certificate** 
   [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5OPPRWU4887J)  
 
 - ![IBM Logo](https://img.shields.io/badge/IBM-Certification-blue?logo=ibm&logoColor=white&style=for-the-badge)  
