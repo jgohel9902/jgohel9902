@@ -71,8 +71,8 @@ Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 - [![IBM](https://img.shields.io/badge/IBM-Excel%20Data%20Analytics-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/E9ZWZU7P0PVT)  
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E9ZWZU7P0PVT)
   
-- [![IBM](https://img.shields.io/badge/IBM-SQL%20with%20Python-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/DEF789)  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/DEF789) 
+- [![IBM](https://img.shields.io/badge/IBM-SQL%20with%20Python-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/2WWWNNDZF4QK)  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/2WWWNNDZF4QK) 
 
 
 ### 📫 Connect with Me
