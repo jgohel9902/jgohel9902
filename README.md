@@ -56,7 +56,13 @@ const skills = {
 </div>
 
 
-### 📊 Profile Views
+### 👁️ Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jgohel9902&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
+
+---
 
 ### 🎓 Education
 Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
