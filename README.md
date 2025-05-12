@@ -47,3 +47,12 @@ const skills = {
 
 ### 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jgohel9902&show_icons=true&theme=dark&count_private=true" alt="Jenil's GitHub Stats" /> </div>
+
+### 🎯 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jgohel9902&theme=react-dark&hide_border=true" /> </div>
+
+### 📊 Profile Views
+
+### 🎓 Education
+Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
+
