@@ -62,17 +62,16 @@ const skills = {
 ### 🎓 Education
 Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 
+---
+
 ### 🏆 Certifications
 
 - [![Google](https://img.shields.io/badge/Google-UX%20Design%20Certification-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/5OPPRWU4887J)  
 
-- ![IBM Logo](https://img.shields.io/badge/IBM-Certification-blue?logo=ibm&logoColor=white&style=for-the-badge)  
-  **Excel Basics for Data Analytics**  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E9ZWZU7P0PVT)  
-
-- ![IBM Logo](https://img.shields.io/badge/IBM-Certification-blue?logo=ibm&logoColor=white&style=for-the-badge)  
-  **Databases and SQL for Data Science with Python**  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/2WWWNNDZF4QK)  
+- [![IBM](https://img.shields.io/badge/IBM-Excel%20Data%20Analytics-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/E9ZWZU7P0PVT)  
+  
+- [![IBM](https://img.shields.io/badge/IBM-SQL%20with%20Python-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/DEF789)  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/DEF789) 
 
 
 ### 📫 Connect with Me
