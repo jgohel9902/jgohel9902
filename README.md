@@ -54,12 +54,14 @@ route performance intelligence, and 3D Azure Maps geospatial hotspot analysis.
 
 ---
 
-### 🤖 Sentiment Analyzer | Python + Scikit-learn + Streamlit
-End-to-end machine learning web app that classifies text sentiment in real time.
-Built and trained a Logistic Regression model, developed a full data preprocessing
-pipeline, and deployed an interactive UI using Streamlit with live prediction
-visualization.
-> `Python` `Scikit-learn` `Pandas` `Streamlit` `Machine Learning`
+### 🤖 AI Code Reviewer | VS Code Extension + Local LLMs
+Full VS Code extension that brings real-time AI-powered code analysis directly
+into the developer workflow. Built a multi-model architecture supporting
+Codestral, Mistral, DeepSeek, Ollama, and OpenAI-compatible APIs — with full
+offline capability using LM Studio. Features include full-file review, 
+selection-based analysis, AI refactoring, code explanation, and a built-in 
+issues dashboard panel.
+> `TypeScript` `VS Code API` `LLM Integration` `Node.js` `Prompt Engineering`
 
 🔗 [View Repository](https://github.com/jgohel9902/ai-code-reviewer)
 
