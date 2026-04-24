@@ -22,7 +22,11 @@
 
 ### 🛠 About Me
 
-Data Analyst & Frontend Developer with expertise in transforming data into impactful insights and building interactive web interfaces. Skilled in data visualization, data analysis, and frontend development with tools like **Power BI, Excel, SQL, Python, React, and Firebase**.
+From Raw Data to Board-Ready Insights — that's the standard I hold every project to.
+
+I'm a Data Analyst specializing in Power BI, SQL, and Python — building 
+end-to-end analytics solutions that go beyond visualization into actual 
+business decision-making.
 
 - 🌱 **Learning:** Microsoft Power BI Certification, TypeScript  
 - 🤝 **Open to collaborate on:** Data-driven projects, React.js applications, Dashboard development  
@@ -34,15 +38,60 @@ Data Analyst & Frontend Developer with expertise in transforming data into impac
 
 ### 🔥 Technical Skills
 
-```javascript
-const skills = {
-  data_analysis: ["Power BI", "Excel", "SQL", "Python", "Azure"],
-  frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-  libraries: ["Pandas", "NumPy", "Plotly", "Chart.js"],
-  tools: ["Git", "VS Code", "Postman", "Figma"],
-  systems: ["System Development Life Cycle", "Agile", "Scrum", "SDLC"],
-  testing: ["Jira", "Mocha", "Chai", "Selenium"],
-};
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📌 Featured Projects
+
+### 🔷 TD-Inspired Credit Card Churn Analytics | Power BI
+End-to-end churn risk dashboard modeled after real banking analytics workflows.
+Built with star schema data modeling, DAX measures, Power Query transformations,
+and a rule-based churn risk engine segmenting customers into Low, Medium,
+and High risk categories.
+> `Power BI` `DAX` `Star Schema` `Churn Analysis` `Banking Analytics`
+
+🔗 [View Repository](https://github.com/jgohel9902/TD-Credit-Card-Churn-Analytics)
+
+---
+
+### 🚦 TTC Transit Delay Analytics | Power BI + Geospatial
+Analyzed 63,000+ transit incidents and 1M+ delay minutes across Toronto's
+transit network. Built a 3-layer executive dashboard covering KPI monitoring,
+route performance intelligence, and 3D Azure Maps geospatial hotspot analysis.
+> `Power BI` `DAX` `Geospatial Analytics` `Azure Maps` `Executive Dashboard`
+
+🔗 [View Repository](https://github.com/jgohel9902/TTC-Service-Delay-Analysis-PowerBI)
+
+---
+
+### 🤖 Sentiment Analyzer | Python + Scikit-learn + Streamlit
+End-to-end machine learning web app that classifies text sentiment in real time.
+Built and trained a Logistic Regression model, developed a full data preprocessing
+pipeline, and deployed an interactive UI using Streamlit with live prediction
+visualization.
+> `Python` `Scikit-learn` `Pandas` `Streamlit` `Machine Learning`
+
+🔗 [View Repository](https://github.com/jgohel9902/ai-code-reviewer)
+
+---
+## 📊 What I Build
+
+```python
+analytics_workflow = {
+    "data_architecture" : ["SQL Server", "Star Schema", "ETL Pipelines"],
+    "analysis"          : ["Python", "Pandas", "NumPy", "Scikit-learn"],
+    "visualization"     : ["Power BI", "DAX", "Executive Dashboards"],
+    "domains"           : ["Churn Analysis", "Healthcare", "Transportation",
+                           "Banking", "Geospatial Analytics"]
+}
 ```
 
 ### 📈 GitHub Stats
@@ -73,7 +122,7 @@ Advanced Diploma in Computer Programming and Analysis - Conestoga College (2026)
 - [![IBM](https://img.shields.io/badge/IBM-SQL%20with%20Python-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/2WWWNNDZF4QK)  
 
 
-### 📫 Connect with Me
+### 📫Let's Connect
 
 <div align="center">
 
