@@ -80,7 +80,10 @@ analytics_workflow = {
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-seven-swart-63.vercel.app/api?username=jgohel9902&show_icons=true&theme=radical&count_private=true" alt="Jenil Gohel's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jgohel9902&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=4c6ef5&icon_color=4c6ef5" 
+    alt="Jenil Gohel's GitHub Stats" 
+  />
 </div>
 
 
