@@ -80,10 +80,13 @@ analytics_workflow = {
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jgohel9902&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=4c6ef5&icon_color=4c6ef5" 
-    alt="Jenil Gohel's GitHub Stats" 
-  />
+ <img
+            id="gh-stats-img"
+            src="https://streak-stats.demolab.com/?user=jgohel9902&theme=tokyonight&hide_border=true&card_width=450&fire=fe7d37&ring=4c6ef5&currStreakLabel=4c6ef5"
+            alt="Jenil Gohel GitHub Streak Stats"
+            class="gh-stats-img"
+            onerror="this.onerror=null;this.src='https://github-readme-stats.vercel.app/api?username=jgohel9902&show_icons=true&theme=tokyonight&hide_border=true&title_color=4c6ef5&icon_color=4c6ef5';"
+          >
 </div>
 
 
